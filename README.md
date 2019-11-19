@@ -1,4 +1,4 @@
-
+# Craps Game Simulation
 
 A java program that simulates the game of Craps.  Collaborated with Diana Sandil
 in my ICS 45J Java class at UCI.
